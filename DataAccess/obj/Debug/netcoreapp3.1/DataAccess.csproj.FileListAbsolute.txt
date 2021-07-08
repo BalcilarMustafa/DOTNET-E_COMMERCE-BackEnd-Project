@@ -1,0 +1,14 @@
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\UltraGamer\source\repos\ECommerceProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
