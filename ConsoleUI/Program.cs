@@ -10,9 +10,9 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             
-           // ProductTest();
+           ProductTest();
            
-            CategoryTest();
+           //CategoryTest();
 
         }
        
@@ -25,8 +25,7 @@ namespace ConsoleUI
             }
         }
 
-        // Data Transformation Object (DTO)
-        //IoC
+        
         private static void ProductTest()
         {
             ProductManager productManager = new ProductManager(new EfProductDal());

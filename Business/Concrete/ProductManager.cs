@@ -31,6 +31,17 @@ namespace Business.Concrete
             return new Result(true, Messages.ProductAdded);
           
         }
+        public IResult Update(Product product)
+        {
+            _productDal.Update(product);
+            return new Result(true, Messages.ProductUpdated);
+        }
+        public IResult Delete(Product product)
+        {
+
+            _productDal.Delete(product);
+            return new Result(true, Messages.ProductDeleted);
+        }
 
         public IDataResult<List<Product>> GetAll()
         {
@@ -62,5 +73,7 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails());
         }
+
+        
     }
 }
